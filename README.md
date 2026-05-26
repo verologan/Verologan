@@ -3,7 +3,7 @@
 **Desarrollador Web | Especialista en HTML5, CSS3 y Diseño Responsivo**
 
 [![GitHub](https://img.shields.io/badge/GitHub-verologan-181717?style=flat-square&logo=github)](https://github.com/verologan)
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=flat-square&logo=gmail)](mailto:tuemail@example.com)
+[![Email](https://img.shields.io/badge/Email-verologan1991%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:verologan1991@gmail.com)
 
 ---
 
@@ -174,7 +174,7 @@ git push origin feature/AmazingFeature
 ## 📞 Contacto
 
 - 🐙 **GitHub**: [@verologan](https://github.com/verologan)
-- 📧 **Email**: [Tu Email]
+- 📧 **Email**: [verologan1991@gmail.com](mailto:verologan1991@gmail.com)
 - 💼 **LinkedIn**: [Tu Perfil LinkedIn]
 - 🌐 **Portafolio**: [Tu Sitio Web]
 

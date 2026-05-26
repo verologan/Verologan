@@ -7,8 +7,8 @@
 ## 📞 Información de Contacto
 
 - 🌐 **GitHub**: [@verologan](https://github.com/verologan)
-- 📍 **Ubicación**: [Tu ubicación]
-- 📧 **Email**: [Tu email]
+- 📍 **Ubicación**: España
+- 📧 **Email**: [verologan1991@gmail.com](mailto:verologan1991@gmail.com)
 - 💼 **LinkedIn**: [Tu perfil LinkedIn]
 
 ---
@@ -29,20 +29,22 @@ Soy un desarrollador web frontend apasionado por crear experiencias digitales he
 ## 💼 Experiencia Profesional
 
 ### Desarrollador Web Frontend
-**Fecha**: [Añade tus fechas]
+**Enfoque**: Desarrollo de interfaces web y aplicaciones responsivas
 - Diseño e implementación de sitios web responsivos
 - Creación de componentes reutilizables en CSS
 - Optimización de interfaces de usuario
-- Documentación técnica y tutoriales
+- Documentación técnica y tutoriales educativos
 
 ---
 
 ## 🎓 Educación
 
 ### Desarrollo Web
-**Plataforma**: [Plataforma educativa o institución]
-- HTML5, CSS3, JavaScript
-- Diseño responsivo
+**Plataforma**: Formación continua en desarrollo web moderno
+- HTML5 y semántica web
+- CSS3 avanzado (Flexbox, Grid, Animaciones)
+- JavaScript Básico
+- Diseño responsivo y mobile-first
 - Accesibilidad web (WCAG)
 - Control de versiones (Git/GitHub)
 
@@ -82,6 +84,7 @@ Soy un desarrollador web frontend apasionado por crear experiencias digitales he
    - SEO optimizado
    
    **Tecnologías**: HTML5, CSS3, Flexbox
+   **Licencia**: MIT
    
    📁 [Ver proyecto](https://github.com/verologan/Proyecto-web-HTML)
 
@@ -233,9 +236,9 @@ Soy un desarrollador web frontend apasionado por crear experiencias digitales he
 
 ---
 
-## 📞 Referencias Disponibles
+## 🎓 Referencias Disponibles
 
-Disponible bajo solicitud
+Disponible bajo solicitud - contacta a verologan1991@gmail.com
 
 ---
 
@@ -256,9 +259,9 @@ Creo firmemente en:
 ## 🔗 Enlaces Importantes
 
 - **GitHub Profile**: https://github.com/verologan
-- **Portfolio Web**: [Tu sitio web]
+- **Email**: verologan1991@gmail.com
 - **LinkedIn**: [Tu LinkedIn]
-- **Blog/Medium**: [Tu blog]
+- **Portfolio Web**: [Tu sitio web]
 
 ---
 
